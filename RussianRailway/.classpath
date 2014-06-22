@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="h2/lib/h2-1.3.174.jar" sourcepath="h2/src/h2-1.3.174.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RussianRailway/h2/doc/h2-1.3.174.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="poi/lib/commons-codec-1.5.jar" sourcepath="poi/src/poi-3.10.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RussianRailway/poi/doc/poi-3.10.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="poi/lib/commons-logging-1.1.jar" sourcepath="poi/src/poi-3.10.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RussianRailway/poi/doc/poi-3.10.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="poi/lib/dom4j-1.6.1.jar" sourcepath="poi/src/poi-3.10.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RussianRailway/poi/doc/poi-3.10.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="poi/lib/log4j-1.2.13.jar" sourcepath="poi/src/poi-3.10.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RussianRailway/poi/doc/poi-3.10.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="poi/lib/poi-3.10-FINAL-20140208.jar" sourcepath="poi/src/poi-3.10.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RussianRailway/poi/doc/poi-3.10.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="poi/lib/poi-ooxml-3.10-FINAL-20140208.jar" sourcepath="poi/src/poi-3.10.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RussianRailway/poi/doc/poi-3.10.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="poi/lib/poi-ooxml-schemas-3.10-FINAL-20140208.jar" sourcepath="poi/src/poi-3.10.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RussianRailway/poi/doc/poi-3.10.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="poi/lib/stax-api-1.0.1.jar" sourcepath="poi/src/poi-3.10.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RussianRailway/poi/doc/poi-3.10.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="poi/lib/xmlbeans-2.3.0.jar" sourcepath="poi/src/poi-3.10.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/RussianRailway/poi/doc/poi-3.10.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="batik/lib/batik-anim.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-awt-util.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-bridge.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-css.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-dom.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-ext.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-gui-util.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-gvt.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-parser.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-script.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-svg-dom.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-swing.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-util.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/batik-xml.jar" sourcepath="batik/src/batik-1.7.zip"/>
+	<classpathentry kind="lib" path="batik/lib/forms-1.3.0.jar"/>
+	<classpathentry kind="lib" path="batik/lib/js.jar"/>
+	<classpathentry kind="lib" path="batik/lib/xerces_2_5_0.jar"/>
+	<classpathentry kind="lib" path="batik/lib/xml-apis-ext.jar"/>
+	<classpathentry kind="lib" path="batik/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="substance/lib/laf-plugin-7.2.1.jar"/>
+	<classpathentry kind="lib" path="substance/lib/laf-widget-7.2.1.jar"/>
+	<classpathentry kind="lib" path="substance/lib/substance-7.2.1.jar"/>
+	<classpathentry kind="lib" path="substance/lib/trident-7.0.jar"/>
+	<classpathentry kind="lib" path="Layout/lib/miglayout15-swing.jar" sourcepath="Layout/src/miglayout-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
